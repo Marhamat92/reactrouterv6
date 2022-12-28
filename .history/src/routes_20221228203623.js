@@ -1,0 +1,1 @@
+//!in this file we will define all the routes for our application with their respective components and layouts,and also we will define the nested routes here as children of the parent routes
